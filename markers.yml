@@ -1,0 +1,7 @@
+# markers won't work unless you have an tracker store
+# other than the in memory one set up; this is just an
+# example for the syntax
+#a third terminal needs to be active and connected to dB, e.g. SQLite
+
+marker_played_rps:
+  action: action_play_rps
